@@ -1,0 +1,1 @@
+Open the following python files in jupyter notebook/google colab and run the code. Load the dataset/images into a folder.
